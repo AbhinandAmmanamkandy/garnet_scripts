@@ -1,0 +1,1 @@
+print("Redmi Note 13 Pro 5G")
